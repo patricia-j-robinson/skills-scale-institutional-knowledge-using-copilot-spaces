@@ -1,6 +1,6 @@
 # OctoAcme Project Management Docs
 
-This folder contains the core project management guidance for OctoAcme. Together, these documents help teams move from an idea to a shipped outcome with clear ownership, aligned communication, and a repeatable delivery process.
+This folder contains the core project management guidance used by OctoAcme. Together, these documents help teams move from an idea to a shipped outcome with clear ownership, aligned communication, and measurable delivery.
 
 ## Project lifecycle at a glance
 
